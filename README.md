@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 🔭 I’m currently working on ...
-- AWS DA Certification which I'm aiming to get Sept 2023!
-- Beautifying my github
-- Contributing more wooo!
-
+- CC project scoping
